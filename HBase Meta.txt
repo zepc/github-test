@@ -1,0 +1,96 @@
+TwitsBase                             column=table:state, timestamp=1558454402537, value=\x08\x00                                                    
+ TwitsBase,,1558454400784.a94305e1fbf9 column=info:regioninfo, timestamp=1590892655697, value={ENCODED => a94305e1fbf912f0ada7d676f1006f4a, NAME => 'T
+ 12f0ada7d676f1006f4a.                 witsBase,,1558454400784.a94305e1fbf912f0ada7d676f1006f4a.', STARTKEY => '', ENDKEY => ''}                      
+ TwitsBase,,1558454400784.a94305e1fbf9 column=info:seqnumDuringOpen, timestamp=1590892655697, value=\x00\x00\x00\x00\x00\x00\x00\x13                  
+ 12f0ada7d676f1006f4a.                                                                                                                                
+ TwitsBase,,1558454400784.a94305e1fbf9 column=info:server, timestamp=1590892655697, value=vm02:16020                                                  
+ 12f0ada7d676f1006f4a.                                                                                                                                
+ TwitsBase,,1558454400784.a94305e1fbf9 column=info:serverstartcode, timestamp=1590892655697, value=1590892636278                                      
+ 12f0ada7d676f1006f4a.                                                                                                                                
+ TwitsBase,,1558454400784.a94305e1fbf9 column=info:sn, timestamp=1590892654884, value=vm02,16020,1590892636278                                        
+ 12f0ada7d676f1006f4a.                                                                                                                                
+ TwitsBase,,1558454400784.a94305e1fbf9 column=info:state, timestamp=1590892655697, value=OPEN                                                         
+ 12f0ada7d676f1006f4a.                                                                                                                                
+ 
+ 
+ 
+                                                           table:state                       info:regioninfo,seqnumDuringOpen,server,serverstartcode,sn,state
+ TwitsBase                                                 \x08\x00 
+ TwitsBase,,1558454400784.a94305e1fbf912f0ada7d676f1006f4a.                                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ eventlog                              column=table:state, timestamp=1558440352242, value=\x08\x00                                                    
+ eventlog,,1558440351081.c5778adf6f859 column=info:regioninfo, timestamp=1590892655608, value={ENCODED => c5778adf6f859726070cfc1b84827832, NAME => 'e
+ 726070cfc1b84827832.                  ventlog,,1558440351081.c5778adf6f859726070cfc1b84827832.', STARTKEY => '', ENDKEY => ''}                       
+ eventlog,,1558440351081.c5778adf6f859 column=info:seqnumDuringOpen, timestamp=1590892655608, value=\x00\x00\x00\x00\x00\x00\x00\x0E                  
+ 726070cfc1b84827832.                                                                                                                                 
+ eventlog,,1558440351081.c5778adf6f859 column=info:server, timestamp=1590892655608, value=vm02:16020                                                  
+ 726070cfc1b84827832.                                                                                                                                 
+ eventlog,,1558440351081.c5778adf6f859 column=info:serverstartcode, timestamp=1590892655608, value=1590892636278                                      
+ 726070cfc1b84827832.                                                                                                                                 
+ eventlog,,1558440351081.c5778adf6f859 column=info:sn, timestamp=1590892654885, value=vm02,16020,1590892636278                                        
+ 726070cfc1b84827832.                                                                                                                                 
+ eventlog,,1558440351081.c5778adf6f859 column=info:state, timestamp=1590892655608, value=OPEN                                                         
+ 726070cfc1b84827832.                                                                                                                                 
+ 
+ 
+ hbase:namespace                       column=table:state, timestamp=1558374440272, value=\x08\x00                                                    
+ hbase:namespace,,1558374438794.1a4aa2 column=info:regioninfo, timestamp=1590892655653, value={ENCODED => 1a4aa2d93ebb92d5e3420e1e7621c857, NAME => 'h
+ d93ebb92d5e3420e1e7621c857.           base:namespace,,1558374438794.1a4aa2d93ebb92d5e3420e1e7621c857.', STARTKEY => '', ENDKEY => ''}                
+ hbase:namespace,,1558374438794.1a4aa2 column=info:seqnumDuringOpen, timestamp=1590892655653, value=\x00\x00\x00\x00\x00\x00\x00\x1F                  
+ d93ebb92d5e3420e1e7621c857.                                                                                                                          
+ hbase:namespace,,1558374438794.1a4aa2 column=info:server, timestamp=1590892655653, value=vm02:16020                                                  
+ d93ebb92d5e3420e1e7621c857.                                                                                                                          
+ hbase:namespace,,1558374438794.1a4aa2 column=info:serverstartcode, timestamp=1590892655653, value=1590892636278                                      
+ d93ebb92d5e3420e1e7621c857.                                                                                                                          
+ hbase:namespace,,1558374438794.1a4aa2 column=info:sn, timestamp=1590892654758, value=vm02,16020,1590892636278                                        
+ d93ebb92d5e3420e1e7621c857.                                                                                                                          
+ hbase:namespace,,1558374438794.1a4aa2 column=info:state, timestamp=1590892655653, value=OPEN                                                         
+ d93ebb92d5e3420e1e7621c857.                                                                                                                          
+ 
+ 
+ 
+ pentaho_mappings                      column=table:state, timestamp=1589994171073, value=\x08\x00                                                    
+ pentaho_mappings,,1589994169737.6d0be column=info:regioninfo, timestamp=1590892656065, value={ENCODED => 6d0be1818d6f0f3068a01c4c4c81313d, NAME => 'p
+ 1818d6f0f3068a01c4c4c81313d.          entaho_mappings,,1589994169737.6d0be1818d6f0f3068a01c4c4c81313d.', STARTKEY => '', ENDKEY => ''}               
+ pentaho_mappings,,1589994169737.6d0be column=info:seqnumDuringOpen, timestamp=1590892656065, value=\x00\x00\x00\x00\x00\x00\x00\x09                  
+ 1818d6f0f3068a01c4c4c81313d.                                                                                                                         
+ pentaho_mappings,,1589994169737.6d0be column=info:server, timestamp=1590892656065, value=vm02:16020                                                  
+ 1818d6f0f3068a01c4c4c81313d.                                                                                                                         
+ pentaho_mappings,,1589994169737.6d0be column=info:serverstartcode, timestamp=1590892656065, value=1590892636278                                      
+ 1818d6f0f3068a01c4c4c81313d.                                                                                                                         
+ pentaho_mappings,,1589994169737.6d0be column=info:sn, timestamp=1590892654757, value=vm02,16020,1590892636278                                        
+ 1818d6f0f3068a01c4c4c81313d.                                                                                                                         
+ pentaho_mappings,,1589994169737.6d0be column=info:state, timestamp=1590892656065, value=OPEN                                                         
+ 1818d6f0f3068a01c4c4c81313d.                                                                                                                         
+ 
+ 
+ people                                column=table:state, timestamp=1589993436968, value=\x08\x00                                                    
+ people,,1589993434958.b29d49f05c3be84 column=info:regioninfo, timestamp=1590892655780, value={ENCODED => b29d49f05c3be845b4cfa5f52a7cee00, NAME => 'p
+ 5b4cfa5f52a7cee00.                    eople,,1589993434958.b29d49f05c3be845b4cfa5f52a7cee00.', STARTKEY => '', ENDKEY => ''}                         
+ people,,1589993434958.b29d49f05c3be84 column=info:seqnumDuringOpen, timestamp=1590892655780, value=\x00\x00\x00\x00\x00\x00\x00\x0B                  
+ 5b4cfa5f52a7cee00.                                                                                                                                   
+ people,,1589993434958.b29d49f05c3be84 column=info:server, timestamp=1590892655780, value=vm02:16020                                                  
+ 5b4cfa5f52a7cee00.                                                                                                                                   
+ people,,1589993434958.b29d49f05c3be84 column=info:serverstartcode, timestamp=1590892655780, value=1590892636278                                      
+ 5b4cfa5f52a7cee00.                                                                                                                                   
+ people,,1589993434958.b29d49f05c3be84 column=info:sn, timestamp=1590892654751, value=vm02,16020,1590892636278                                        
+ 5b4cfa5f52a7cee00.                                                                                                                                   
+ people,,1589993434958.b29d49f05c3be84 column=info:state, timestamp=1590892655780, value=OPEN                                                         
+ 5b4cfa5f52a7cee00.                                                  
